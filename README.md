@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/abidhas44458393" target="blank"><img src="https://img.shields.io/twitter/follow/abidhas44458393?logo=twitter&style=for-the-badge" alt="abidhas44458393" /></a> </p>
 
-- ⚡ Fun fact **I am Funny person ☺**
+- ⚡ Fun fact: **I am Funny person ☺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
